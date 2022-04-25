@@ -18,5 +18,5 @@
 
 ### Credit.
 
-[unDraw](https://undraw.co/): for providing SVGs.
+[unDraw](https://undraw.co/): for providing SVGs. <br />
 [JSON placeholder](https://jsonplaceholder.typicode.com/): for providing fake API data.

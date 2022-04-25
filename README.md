@@ -14,7 +14,7 @@
 - pages: which contain main page, app.js, index.js and document.js
 - components: which contain the reusable components i used across the project like navbar, footer, buttons and typography.
 - sections: contain two folders, sections and mainlayout.
-- utilities: contain three folders, api urls, global styles, and variables for theme provider.
+- utilities: contain four folders, api urls, global styles, hooks and variables for theme provider.
 
 ### Credit.
 

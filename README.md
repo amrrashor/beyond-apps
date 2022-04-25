@@ -10,11 +10,11 @@
 
 ### Project Folder Structure.
 
-- public: which contains assets (images).
-- pages: which contain main page, app.js, index.js and document.js
-- components: which contain the reusable components i used across the project like navbar, footer, buttons and typography.
-- sections: contain two folders, sections and mainlayout.
-- utilities: contain four folders, api urls, global styles, hooks and variables for theme provider.
+1- public: which contains assets (images).
+2- pages: which contain main page, app.js, index.js and document.js
+3- components: which contain the reusable components i used across the project like navbar, footer, buttons and typography.
+4- sections: contain two folders, sections and mainlayout.
+5- utilities: contain four folders, api urls, global styles, hooks and variables for theme provider.
 
 ### Credit.
 

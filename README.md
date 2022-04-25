@@ -2,11 +2,11 @@
 
 ### Tools and Technologies used in this project:-
 
-1- Next.js
-2- Styled-Components: to write CSS in JavaScript.
-3- React-Bootstrap: to provide native Bootstrap components as pure React components.
-4- Axios: to provide a Promise based HTTP requests from node js.
-5- React-Icons: to provide a scalable icons.
+1- Next.js <br />
+2- Styled-Components: to write CSS in JavaScript. <br />
+3- React-Bootstrap: to provide native Bootstrap components as pure React components. <br />
+4- Axios: to provide a Promise based HTTP requests from node js. <br />
+5- React-Icons: to provide a scalable icons. <br />
 
 ### Project Folder Structure.
 
